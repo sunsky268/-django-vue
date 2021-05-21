@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cf5352e-8a48-4f19-afca-1056c017ba71" name="Default Changelist" comment="首页静态化前期准备（django-crontab模块定时执行生成首页），商品详情页脚本实现静态化前期准备。" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s6D1vkp6EkUwtNZieHldPRZJ4M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhonghongquan\AppData\Local\Programs\Python\Python38\Lib" />
+      <recent name="D:\文档\项目文件\meiduo\meiduo_project\meiduo_project\apps\payment\keys" />
+      <recent name="D:\文档\项目文件\meiduo\meiduo_project\meiduo_project\static\js" />
+      <recent name="D:\文档\项目文件\meiduo\meiduo_project\meiduo_project\templates" />
+      <recent name="D:\文档\项目文件\meiduo\meiduo_project\meiduo_project\templates\search" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文档\项目文件\meiduo\meiduo_project" />
+      <recent name="D:\文档\项目文件\meiduo\meiduo_project\meiduo_project\apps\contents" />
+      <recent name="D:\文档\项目文件\meiduo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.meiduodebug">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meiduo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_project/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="meiduodebug" type="PythonConfigurationType" factoryName="Python">
+      <module name="meiduo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\zhonghongquan\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meiduo_project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meiduo_project/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.meiduodebug" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf5352e-8a48-4f19-afca-1056c017ba71" name="Default Changelist" comment="" />
+      <created>1620183935049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620183935049</updated>
+    </task>
+    <task id="LOCAL-00001" summary="创建项目文件">
+      <created>1620184556950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620184556950</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建项目工程">
+      <created>1620188418576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620188418576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="配置项目工程，配置Jinja2模板引擎、mysql数据库、redis数据库、日志文件、前端文件。">
+      <created>1620270719907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620270719907</updated>
+    </task>
+    <task id="LOCAL-00004" summary="补充前端静态文件。">
+      <created>1620271634860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620271634860</updated>
+    </task>
+    <task id="LOCAL-00005" summary="用户注册前后端业务实现，采用前后端不分离方式，Vue-html数据交互、django-mysql数据存储、django-redis数据缓存状态保持等。">
+      <created>1620391835619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620391835619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="用户注册图形验证、短信验证前后端实现">
+      <created>1620573738309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620573738309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="用户登录、登出前后端逻辑实现、登录状态保持cookie及登出状态清除cookie,用户是否登录判断使用django自带的requireMixin实现。">
+      <created>1620639852940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620639852940</updated>
+    </task>
+    <task id="LOCAL-00008" summary="QQ登录功能实现，OAUTH2.0认证获取openid、openid绑定美多用户">
+      <created>1620696691135</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696691135</updated>
+    </task>
+    <task id="LOCAL-00009" summary="用户中心邮箱添加和验证功能实现、celery错误重试机制及celery性能的优化-修改默认的进程运行机制为协程机制-增加异步并发的负载能力">
+      <created>1620782528900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620782528900</updated>
+    </task>
+    <task id="LOCAL-00010" summary="用户中心收货地址的增删改功能实现，收货地址的省市区三级联动数据表自关联设计及用cache缓存省市区地址数据。">
+      <created>1620864803255</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620864803255</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1、设计数据库加入SPU(标准产品单位)及SKU（库存最小单位）概念&#10;2、商品信息数据库设计：根据需求建表，商品类别表符合三级联动,设置parent_id字段自关联；a:商品类别表和商品频道表一对多关系，b:商品频道表和商品频道组表多对一关系 c:商品SPU和商品类别表多对一关系 d:商品SKU和商品SPU多对一关系等。&#10;3、图片文件存储采用FastDFS提供服务&#10;4、Docker容器运行FastDFS相关服务&#10;5、自定义django文件存储类Storage，需重写Storage类url方法，重组访问图片的url：固定前缀+图片名字（数据库存储图片file_id）">
+      <created>1620982877332</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620982877332</updated>
+    </task>
+    <task id="LOCAL-00012" summary="商品列表页功能实现-列表页分页、按类排序、热销排行">
+      <created>1621069337990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621069337990</updated>
+    </task>
+    <task id="LOCAL-00013" summary="商品列表页功能实现-列表页分页、按类排序、热销排行;数据库SKU表default_Imange_url字段--&gt;修改为default_image,类型CharField--&gt;修改为ImageField.">
+      <created>1621069906373</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1621069906373</updated>
+    </task>
+    <task id="LOCAL-00014" summary="全文搜索使用开源Elasticsearch搜索引擎，django使用Haystack对接Elasticsearch搜索引擎实现商品的全文搜索。">
+      <created>1621136288064</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1621136288064</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1、商品详情页功能实现及展示&#10;2、统计分类商品的每天访问量到mysql数据库（为日后做报表使用）&#10;3、用户历史浏览记录前五条保存到redis数据库中（先去重-保存-截取），用户中心展示历史浏览记录。">
+      <created>1621158769775</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1621158769775</updated>
+    </task>
+    <task id="LOCAL-00016" summary="购物车数据存储redis-hash方法数据库，购物车的增删改查、展示功能实现">
+      <created>1621229194695</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1621229194695</updated>
+    </task>
+    <task id="LOCAL-00017" summary="订单功能实现：1、django中使用django.db.transaction模块提供的atomic方法来处理事务（对Orderinfo、OrderGoods、SKU、SPU数据的修改当作一个整体的事务来执行）；2、使用乐观锁来实现并发下单使每件商品都有被多次下单的机会直到库存不足（或用celery任务队列来处理并发下单效率更高一般用于秒杀场景）；3、修改mysql的事务隔离级别为Read committed(读取已提交事务)。">
+      <created>1621304940674</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1621304940674</updated>
+    </task>
+    <task id="LOCAL-00018" summary="首页静态化前期准备（django-crontab模块定时执行生成首页），商品详情页脚本实现静态化前期准备。">
+      <created>1621556231271</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1621556231271</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建项目文件" />
+    <MESSAGE value="创建项目工程" />
+    <MESSAGE value="配置项目工程，配置Jinja2模板引擎、mysql数据库、redis数据库、日志文件、前端文件。" />
+    <MESSAGE value="补充前端静态文件。" />
+    <MESSAGE value="用户注册前后端业务实现，采用前后端不分离方式，Vue-html数据交互、django-mysql数据存储、django-redis数据缓存状态保持等。" />
+    <MESSAGE value="用户注册图形验证、短信验证前后端实现" />
+    <MESSAGE value="用户登录、登出前后端逻辑实现、登录状态保持cookie及登出状态清除cookie,用户是否登录判断使用django自带的requireMixin实现。" />
+    <MESSAGE value="QQ登录功能实现，OAUTH2.0认证获取openid、openid绑定美多用户" />
+    <MESSAGE value="用户中心邮箱添加和验证功能实现、celery错误重试机制及celery性能的优化-修改默认的进程运行机制为协程机制-增加异步并发的负载能力" />
+    <MESSAGE value="用户中心收货地址的增删改功能实现，收货地址的省市区三级联动数据表自关联设计及用cache缓存省市区地址数据。" />
+    <MESSAGE value="1、设计数据库加入SPU(标准产品单位)及SKU（库存最小单位）概念&#10;2、商品信息数据库设计：根据需求建表，商品类别表符合三级联动,设置parent_id字段自关联；a:商品类别表和商品频道表一对多关系，b:商品频道表和商品频道组表多对一关系 c:商品SPU和商品类别表多对一关系 d:商品SKU和商品SPU多对一关系等。&#10;3、图片文件存储采用FastDFS提供服务&#10;4、Docker容器运行FastDFS相关服务&#10;5、自定义django文件存储类Storage，需重写Storage类url方法，重组访问图片的url：固定前缀+图片名字（数据库存储图片file_id）" />
+    <MESSAGE value="商品列表页功能实现-列表页分页、按类排序、热销排行" />
+    <MESSAGE value="商品列表页功能实现-列表页分页、按类排序、热销排行;数据库SKU表default_Imange_url字段--&gt;修改为default_image,类型CharField--&gt;修改为ImageField." />
+    <MESSAGE value="全文搜索使用开源Elasticsearch搜索引擎，django使用Haystack对接Elasticsearch搜索引擎实现商品的全文搜索。" />
+    <MESSAGE value="1、商品详情页功能实现及展示&#10;2、统计分类商品的每天访问量到mysql数据库（为日后做报表使用）&#10;3、用户历史浏览记录前五条保存到redis数据库中（先去重-保存-截取），用户中心展示历史浏览记录。" />
+    <MESSAGE value="购物车数据存储redis-hash方法数据库，购物车的增删改查、展示功能实现" />
+    <MESSAGE value="订单功能实现：1、django中使用django.db.transaction模块提供的atomic方法来处理事务（对Orderinfo、OrderGoods、SKU、SPU数据的修改当作一个整体的事务来执行）；2、使用乐观锁来实现并发下单使每件商品都有被多次下单的机会直到库存不足（或用celery任务队列来处理并发下单效率更高一般用于秒杀场景）；3、修改mysql的事务隔离级别为Read committed(读取已提交事务)。" />
+    <MESSAGE value="首页静态化前期准备（django-crontab模块定时执行生成首页），商品详情页脚本实现静态化前期准备。" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页静态化前期准备（django-crontab模块定时执行生成首页），商品详情页脚本实现静态化前期准备。" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620731108190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1620731108190" />
+    <state x="631" y="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621327542770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="422" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1621327542770" />
+    <state x="723" y="180" key="#xdebugger.evaluate" timestamp="1620990867223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="723" y="180" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1620990867223" />
+    <state x="299" y="67" key="DBNavigator.ProjectSettingsDialog" timestamp="1620295997705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1620295997705" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1620185355074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1620185355074" />
+    <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1621475651135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621475651135" />
+    <state width="1478" height="73" key="GridCell.Tab.0.bottom" timestamp="1621257543235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621257543235" />
+    <state width="1478" height="73" key="GridCell.Tab.0.center" timestamp="1621257543235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621257543235" />
+    <state width="1478" height="73" key="GridCell.Tab.0.left" timestamp="1621257543235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621257543235" />
+    <state width="1478" height="73" key="GridCell.Tab.0.right" timestamp="1621257543235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621257543235" />
+    <state width="1478" height="73" key="GridCell.Tab.1.bottom" timestamp="1621257543236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621257543236" />
+    <state width="1478" height="73" key="GridCell.Tab.1.center" timestamp="1621257543236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1621257543236" />
+    <state width="1478" height="73" key="GridCell.Tab.1.left" timestamp="1621257543236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1621257543236" />
+    <state width="1478" height="73" key="GridCell.Tab.1.right" timestamp="1621257543236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="73" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621257543236" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1621483360716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621483360716" />
+    <state x="599" y="281" key="VCS.EditChangelistDialog" timestamp="1621069657021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="281" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1621069657021" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621556234706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621556234706" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1621340916026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1621340916026" />
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620445385462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1620445385462" />
+    <state x="568" y="312" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620184070581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="312" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620184070581" />
+    <state x="436" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1621241156858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621241156858" />
+  </component>
+</project>
